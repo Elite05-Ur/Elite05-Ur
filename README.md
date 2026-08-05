@@ -1,5 +1,5 @@
 # 💫 About Me:
-UI/UX-focused Web Developer with strong skills in HTML, CSS, JavaScript, Bootstrap, and React.<br>I enjoy turning designs into clean, responsive, and user-friendly interfaces.<br>Currently improving my development workflow, GitHub practices, and code quality, and Focus in Docker, Linux, etc <br>Interested in building real-world projects and growing as a full-stack developer and Devops Engineer<br><br>
+Junior Full-Stack Developer skilled in the MERN stack, React.js, and modern web technologies, with a strong focus on clean UI/UX design. Experienced in building responsive interfaces, REST APIs, and scalable web applications while optimizing developer workflows with Git, Docker, and Linux. Passionate about growing as a full-stack and DevOps engineer through real-world projects.<br><br>
 
 
 ## 🌐 Socials:
