@@ -1,34 +1,102 @@
-# <p align="center">Hi There 👋, I'm Syed Omaan Jallane</p>
+<div align="center">
+  
+# Hello Dosto 👋
 
-<!-- Typing Effect Added Here -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;UI%2FUX+Enthusiast+%26+DevOps+Learner" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;UI%2FUX+Enthusiast;Building+Enterprise+POS+Systems)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a **Junior Full-Stack Developer** skilled in the **MERN stack, React.js, and modern web technologies**, with a strong focus on clean **UI/UX design** from 🇵🇰 Pakistan. Experienced in building responsive interfaces, REST APIs, and scalable web applications while optimizing developer workflows with Git, Docker, and Linux.
+
+- 🔭 Currently working on **Enterprise POS Web Applications** and full-stack MERN projects
+- 🌱 Always learning about **emerging AI tools, backend architecture, and DevOps practices**
+- 👯 Looking to collaborate on **open-source web development and agency projects**
+- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, and Full-Stack Development**
+- ⚡ Fun fact: I love building sleek dark-themed user interfaces and digital agency solutions
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend & UI/UX**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+</p>
+
+### **Backend & Database**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/postman-icon.svg" alt="postman" width="40" height="40"/>
+</p>
+
+### **DevOps & Tools**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="render" width="40" height="40"/>
 </p>
 
 ---
 
-# 🚀 About Me:
-Junior Full-Stack Developer skilled in the MERN stack, React.js, and modern web technologies, with a strong focus on clean UI/UX design. Experienced in building responsive interfaces, REST APIs, and scalable web applications while optimizing developer workflows with Git, Docker, and Linux. Passionate about growing as a full-stack and DevOps engineer through real-world projects.<br><br>
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OMAAN-JALLANI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMAAN-JALLANI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100086675617857) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/omaan5167490/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ www.linkedin.com/in/o-m-a-a-n-j-a-l-l-a-n-e-45b4a331a) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Omaan Mahmood jallane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omaanjallani5530@gmail.com) 
-
-# 💻 Tech Stack:
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OMAAN-JALLANI&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OMAAN-JALLANI&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OMAAN-JALLANI&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OMAAN-JALLANI&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=OMAAN-JALLANI&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMAAN-JALLANI&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=OMAAN-JALLANI&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OMAAN-JALLANI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
+
+---
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OMAAN-JALLANI&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omaan-jallane-45b4a331a)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100086675617857)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omaan5167490/)
+[![Email](https://img.shields.io/badge/Email-omaanjallani5530@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaanjallani5530@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "CodeCrafting the future, one full-stack app at a time" 
+
+![Profile Views](https://komarev.com/ghpvc/?username=OMAAN-JALLANI&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/OMAAN-JALLANI?label=Follow&style=social)](https://github.com/OMAAN-JALLANI)
+
+</div>
