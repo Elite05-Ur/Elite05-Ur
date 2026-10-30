@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Junior Full-Stack Developer skilled in the MERN stack, React.js, and modern web technologies, with a strong focus on clean UI/UX design. Experienced in building responsive interfaces, REST APIs, and scalable web applications while optimizing developer workflows with Git, Docker, and Linux. Passionate about growing as a full-stack and DevOps engineer through real-world projects.<br><br>
 
 
